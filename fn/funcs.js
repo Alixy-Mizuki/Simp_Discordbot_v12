@@ -1,0 +1,1 @@
+module.exports.escapeHTML = require('./module/escapeHTML')

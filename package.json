@@ -1,0 +1,33 @@
+{
+  "name": "Shrimp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "akaneko": "^5.1.2",
+    "common-tags": "^1.8.0",
+    "delay": "^5.0.0",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "discord.js-commando": "^0.12.3",
+    "express": "^4.17.1",
+    "fs-extra": "^10.0.0",
+    "jimp": "^0.16.1",
+    "kitsu.js": "^2.0.0",
+    "mal-scraper": "^2.11.3",
+    "node-fetch": "^2.6.1",
+    "node-superfetch": "^0.2.3",
+    "parse-ms": "^3.0.0",
+    "querystring": "^0.2.1",
+    "quick.replit": "^1.0.3",
+    "request": "^2.88.2",
+    "shortid": "^2.2.16",
+    "youtube-search": "^1.1.6"
+  }
+}
